@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666343349 source:d:\c++\oops\banksys\main.cpp
+	<iostream>
+	<windows.h>
+

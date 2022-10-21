@@ -56,6 +56,8 @@ ENTER DATE             : 21-10-22
 
 CREAT USERNAME         : HR1
 
+CREAT PASSWORD         : HR1
+
      ----------------------------------------
      --^--^--^--^--^-::MENU::-^--^--^--^--^--
      | 1] NEW ACCOUNT                       |
